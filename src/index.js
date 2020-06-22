@@ -6,6 +6,6 @@ import App from './App';
 
 ReactDOM.render(
   
-    <App />,document.getElementById('root')
+    <App message="HELLO WORLD" /> ,document.getElementById('root')
 );
 
